@@ -1,0 +1,10 @@
+msj = input("ingrese texto para su visualizacion:  ")
+print("hola Mundo")
+print("Voy a imprimir a continuacion tu mensaje de la variable msj ;)")
+print(msj)
+n = 100
+print(n*2)
+n = str(n)
+print(n*2)
+n = int(n)
+print(n)
