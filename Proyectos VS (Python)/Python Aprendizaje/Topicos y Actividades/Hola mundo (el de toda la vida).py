@@ -3,7 +3,7 @@ print("Hola Muundo")
 
 # hola mundo, la primer lectura, la de un string
 
-msj =  "Que pa hay"
+msj =  "Buenasss"
 print(msj)
 
 # Asignacion de un string a una variable "msj" y lectura del mismo

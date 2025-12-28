@@ -5,7 +5,7 @@ lista = []
 lista.append("Gabriel")
 lista.append("29")
 lista.append(19)
-lista.append("Loquito")
+lista.append("Juan")
 
 print(lista)
 miTupla = tuple(lista)

@@ -12,7 +12,7 @@ suma(76, 80)
 # 2 da manera de poner el argumento
 suma(b = 500, a = 1000)
 
-# Argumentios indefinidos con nombre
+# Argumentos indefinidos con nombre
 # Me devuelve un diccionario
 def kwargsGab_func(**kwargs):
     print(kwargs)
